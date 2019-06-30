@@ -1,13 +1,13 @@
-title: Simplelab Tech Blog
-email: simplelab.tech@gmail.com
+title: kakao 기술 블로그
+email: opensource@kakaocorp.com
 description: |
-  SimpleLab Tech Bolg.
-  Easy, Free, Simple aim for technology.
+  Connect Everything 새로운 연결, 새로운 세상.
+  연결의 혁신으로 세상은 더욱 가깝고 새로워진다고 카카오는 믿습니다.
 baseurl: '/'
-url: 'http://tech.simplelab.io'
-timezone: Asia/Seoul
+url: 'http://tech.kakao.com'
+timezone: Asia/Seoul 
 
-repository: github.com/SimpleLab-Tech/simplelab.github.io
+repository: kakao/kakao.github.io
 
 permalink: /:year/:month/:day/:title/
 
@@ -53,8 +53,8 @@ github: [metadata]
 author: opensource@kakaocorp.com
 image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
-asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
-asset_url: //t1.daumcdn.net/osa/blog/assets
+#asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
+#asset_url: //t1.daumcdn.net/osa/blog/assets
 # google_analytics:
 #   ua: 'UA-72007721-1'
 # facebook:
