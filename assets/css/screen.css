@@ -209,6 +209,7 @@ for small screen(<720px):
     margin: 0;
     padding: 0;
     text-align: center;
+    height: 60px;
 }
 
 #menu > li {
