@@ -1,5 +1,5 @@
 ---
 name: hardy.jung
-title: 정원천
-image: /files/authors/hardy.jung.jpg
+title: 정정정
+image: /files/authors/matt.lee.jpg
 ---

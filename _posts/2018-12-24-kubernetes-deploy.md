@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'kubernetes를 이용한 서비스 무중단 배포'
-author: hardy.jung
+author: matt.lee
 date: 2018-12-24 10:00
 tags: [kubernetes]
 image: /files/covers/kubernetes.png
