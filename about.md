@@ -2,13 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+image: /files/covers/blog.jpg
+sitemap: yes
+tags: [about]
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+[kakao](http://www.kakaocorp.com) 기술블로그 입니다.
 
+Powered by [GitHub Pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com).
 
-Simplelab Tech Team
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
