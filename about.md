@@ -7,7 +7,7 @@ sitemap: yes
 tags: [about]
 ---
 
-[kakao](http://www.kakaocorp.com) 기술블로그 입니다.
+[kakao](http://tech.simplelab.io) 기술블로그 입니다.
 
-Powered by [GitHub Pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com).
+Powered by [GitHub Pages](https://github.com/SimpleLab-Tech/simplelab.github.io) and [Jekyll](https://jekyllrb.com).
 
