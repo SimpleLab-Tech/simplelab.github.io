@@ -1,4 +1,4 @@
 ---
-name: adt
-title: 'ADT: Almighty Data Transmitter'
+name: github
+title: 'github: Distributed version management tools'
 ---
